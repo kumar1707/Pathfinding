@@ -19,5 +19,5 @@ Black - barrier block
 
 ## How to run it
 1. download the files
-2. run it in teh terminal
+2. run it in the terminal
 3. And here we go!!!
